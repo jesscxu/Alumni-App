@@ -1,0 +1,9 @@
+{% if name_list %}
+    <ul>
+    {% for name in name_list %}
+        <li><a href="/alumni/{{ name.id }}/">{{ name.name_text }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No names are available.</p>
+{% endif %}

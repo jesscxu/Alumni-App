@@ -1,0 +1,402 @@
+[
+    {
+        "pk": 1, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Delicious Pizza", 
+            "lat": 34.0326026019024, 
+            "lon": -118.360861532824, 
+            "address_text": "5419 W Adams Blvd"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Jeni's Splendid Ice Creams", 
+            "lat": 39.9769783, 
+            "lon": -83.0033264, 
+            "address_text": "714 N High St"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "800 Degrees Neapolitan Pizzeria", 
+            "lat": 34.0493393, 
+            "lon": -118.2586288, 
+            "address_text": "800 Wilshire Blvd"
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "39 Below FroYo", 
+            "lat": 39.9637401849031, 
+            "lon": -82.9996470361948, 
+            "address_text": "39 E Gay St"
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Pizza Studio", 
+            "lat": 34.018666, 
+            "lon": -118.281577, 
+            "address_text": "3584 S Figueroa St"
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Jeni's Splendid Ice Creams", 
+            "lat": 39.9721718, 
+            "lon": -83.004158, 
+            "address_text": "59 Spruce St"
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Pizzanista!", 
+            "lat": 34.0347023, 
+            "lon": -118.2314789, 
+            "address_text": "2019 E 7th St"
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Whit's Frozen Custard", 
+            "lat": 39.9795637, 
+            "lon": -83.0042307, 
+            "address_text": "841 N High St"
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Pellicola Pizzeria", 
+            "lat": 34.044907607488, 
+            "lon": -118.256324915344, 
+            "address_text": "421 W 8th St"
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Jeni's Splendid Ice Creams", 
+            "lat": 39.9441459774971, 
+            "lon": -82.9925861209631, 
+            "address_text": "900 Mohawk St"
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Tomato Pie Pizza Joint", 
+            "lat": 34.104003, 
+            "lon": -118.273716, 
+            "address_text": "2457 Hyperion Ave"
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Jeni's Splendid Ice Creams", 
+            "lat": 39.9838295, 
+            "lon": -83.0450439, 
+            "address_text": "1281 Grandview Ave"
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "DeSano Pizza Bakery", 
+            "lat": 34.0908456, 
+            "lon": -118.2977495, 
+            "address_text": "4959 Santa Monica Blvd"
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Orange Leaf", 
+            "lat": 40.0205570090684, 
+            "lon": -83.0594086647034, 
+            "address_text": "3130 Kingsdale Center"
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Masa of Echo Park", 
+            "lat": 34.077585, 
+            "lon": -118.259599, 
+            "address_text": "1800 W Sunset Blvd"
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Graeters Ice Cream", 
+            "lat": 40.0073509216309, 
+            "lon": -83.0511016845703, 
+            "address_text": "1534 W. Lane Ave"
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Blaze Fast-Fire'd Pizza", 
+            "lat": 34.0222588, 
+            "lon": -118.28022, 
+            "address_text": "3335 S Figueroa St"
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Graeter's Ice Cream", 
+            "lat": 39.9574356079102, 
+            "lon": -82.9379196166992, 
+            "address_text": "2282 E Main St"
+        }
+    }, 
+    {
+        "pk": 19, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Village Pizzeria", 
+            "lat": 34.0739747, 
+            "lon": -118.3238054, 
+            "address_text": "131 N Larchmont Blvd"
+        }
+    }, 
+    {
+        "pk": 20, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Jeni's Splendid Ice Creams", 
+            "lat": 40.0486412, 
+            "lon": -83.020607, 
+            "address_text": "4247 N High St"
+        }
+    }, 
+    {
+        "pk": 21, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Folliero's Italian Food and Pizza", 
+            "lat": 34.108601, 
+            "lon": -118.194031, 
+            "address_text": "5566 N Figueroa St"
+        }
+    }, 
+    {
+        "pk": 22, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Jeni's Splendid Ice Creams", 
+            "lat": 40.0517396837314, 
+            "lon": -82.915258743158, 
+            "address_text": "3998 Gramercy St"
+        }
+    }, 
+    {
+        "pk": 23, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Town Pizza", 
+            "lat": 34.121469, 
+            "lon": -118.204588, 
+            "address_text": "5101 York Blvd"
+        }
+    }, 
+    {
+        "pk": 24, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Handel's Ice Cream", 
+            "lat": 39.972588, 
+            "lon": -83.151833, 
+            "address_text": "5665 Feder Rd"
+        }
+    }, 
+    {
+        "pk": 25, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Anima Pizza & Pasta", 
+            "lat": 34.0600891, 
+            "lon": -118.2912064, 
+            "address_text": "698 S Vermont Ave"
+        }
+    }, 
+    {
+        "pk": 26, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Johnson's Real Ice Cream", 
+            "lat": 39.9570694, 
+            "lon": -82.9258804, 
+            "address_text": "2728 E Main St"
+        }
+    }, 
+    {
+        "pk": 27, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "PizzaRev", 
+            "lat": 34.0480276, 
+            "lon": -118.3354677, 
+            "address_text": "4550 W Pico Blvd"
+        }
+    }, 
+    {
+        "pk": 28, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Dairy Queen", 
+            "lat": 39.9889908, 
+            "lon": -83.0468521, 
+            "address_text": "1512 W 5th Ave"
+        }
+    }, 
+    {
+        "pk": 29, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Pizza Next Door", 
+            "lat": 34.0473344953997, 
+            "lon": -118.260447463435, 
+            "address_text": "806 W 8th St"
+        }
+    }, 
+    {
+        "pk": 30, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Yaourt Frozen Yogurt", 
+            "lat": 40.0981638799674, 
+            "lon": -83.0855842076569, 
+            "address_text": "3652 W Dublin Granville Rd"
+        }
+    }, 
+    {
+        "pk": 31, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Prime Pizza", 
+            "lat": 34.0796721173234, 
+            "lon": -118.361365646124, 
+            "address_text": "446 N Fairfax Ave"
+        }
+    }, 
+    {
+        "pk": 32, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Jeni's Splendid Ice Creams at the Commons", 
+            "lat": 39.9587628, 
+            "lon": -82.9999565, 
+            "address_text": "160 S High St"
+        }
+    }, 
+    {
+        "pk": 33, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Apollonia's Pizzeria", 
+            "lat": 34.062139, 
+            "lon": -118.3428125, 
+            "address_text": "5176 Wilshire Blvd"
+        }
+    }, 
+    {
+        "pk": 34, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Tony's Coneys", 
+            "lat": 39.951981, 
+            "lon": -83.140953, 
+            "address_text": "5266 W Broad St"
+        }
+    }, 
+    {
+        "pk": 35, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Hollywood Pies", 
+            "lat": 34.0529729425907, 
+            "lon": -118.374519869685, 
+            "address_text": "6116 1/2 W Pico Blvd"
+        }
+    }, 
+    {
+        "pk": 36, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Graeters Ice Cream", 
+            "lat": 40.0642242431641, 
+            "lon": -83.0865936279297, 
+            "address_text": "2555 Bethel Rd"
+        }
+    }, 
+    {
+        "pk": 37, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "All' Angolo Pizza & Pasta", 
+            "lat": 34.068913, 
+            "lon": -118.301872, 
+            "address_text": "4050 W 3rd St"
+        }
+    }, 
+    {
+        "pk": 38, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Clown Cone & Confections", 
+            "lat": 40.0364189, 
+            "lon": -82.9649811, 
+            "address_text": "3431 Cleveland Ave"
+        }
+    }, 
+    {
+        "pk": 39, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Xlixe Pizzeria", 
+            "lat": 34.046936, 
+            "lon": -118.238754, 
+            "address_text": "432 E 2nd St"
+        }
+    }, 
+    {
+        "pk": 40, 
+        "model": "alumni.name", 
+        "fields": {
+            "name_text": "Graeters Ice Cream", 
+            "lat": 40.049984, 
+            "lon": -82.9153748, 
+            "address_text": "147 Easton Town Ctr"
+        }
+    }
+]

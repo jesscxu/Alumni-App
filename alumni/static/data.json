@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Delicious Pizza", 
+        "coordinates": [
+            -118.360861532824, 
+            34.0326026019024
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -83.0033264, 
+            39.9769783
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "800 Degrees Neapolitan Pizzeria", 
+        "coordinates": [
+            -118.2586288, 
+            34.0493393
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "39 Below FroYo", 
+        "coordinates": [
+            -82.9996470361948, 
+            39.9637401849031
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Pizza Studio", 
+        "coordinates": [
+            -118.281577, 
+            34.018666
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -83.004158, 
+            39.9721718
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Pizzanista!", 
+        "coordinates": [
+            -118.2314789, 
+            34.0347023
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Whit's Frozen Custard", 
+        "coordinates": [
+            -83.0042307, 
+            39.9795637
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Pellicola Pizzeria", 
+        "coordinates": [
+            -118.256324915344, 
+            34.044907607488
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -82.9925861209631, 
+            39.9441459774971
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Tomato Pie Pizza Joint", 
+        "coordinates": [
+            -118.273716, 
+            34.104003
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -83.0450439, 
+            39.9838295
+        ], 
+        "address": "Grandview Heights, OH"
+    }, 
+    {
+        "name": "DeSano Pizza Bakery", 
+        "coordinates": [
+            -118.2977495, 
+            34.0908456
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Orange Leaf", 
+        "coordinates": [
+            -83.0594086647034, 
+            40.0205570090684
+        ], 
+        "address": "Upper Arlington, OH"
+    }, 
+    {
+        "name": "Masa of Echo Park", 
+        "coordinates": [
+            -118.259599, 
+            34.077585
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Graeters Ice Cream", 
+        "coordinates": [
+            -83.0511016845703, 
+            40.0073509216309
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Blaze Fast-Fire'd Pizza", 
+        "coordinates": [
+            -118.28022, 
+            34.0222588
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Graeter's Ice Cream", 
+        "coordinates": [
+            -82.9379196166992, 
+            39.9574356079102
+        ], 
+        "address": "Bexley, OH"
+    }, 
+    {
+        "name": "Village Pizzeria", 
+        "coordinates": [
+            -118.3238054, 
+            34.0739747
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -83.020607, 
+            40.0486412
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Folliero's Italian Food and Pizza", 
+        "coordinates": [
+            -118.194031, 
+            34.108601
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -82.915258743158, 
+            40.0517396837314
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Town Pizza", 
+        "coordinates": [
+            -118.204588, 
+            34.121469
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Handel's Ice Cream", 
+        "coordinates": [
+            -83.151833, 
+            39.972588
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Anima Pizza & Pasta", 
+        "coordinates": [
+            -118.2912064, 
+            34.0600891
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Johnson's Real Ice Cream", 
+        "coordinates": [
+            -82.9258804, 
+            39.9570694
+        ], 
+        "address": "Bexley, OH"
+    }, 
+    {
+        "name": "PizzaRev", 
+        "coordinates": [
+            -118.3354677, 
+            34.0480276
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Dairy Queen", 
+        "coordinates": [
+            -83.0468521, 
+            39.9889908
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Pizza Next Door", 
+        "coordinates": [
+            -118.260447463435, 
+            34.0473344953997
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Yaourt Frozen Yogurt", 
+        "coordinates": [
+            -83.0855842076569, 
+            40.0981638799674
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Prime Pizza", 
+        "coordinates": [
+            -118.361365646124, 
+            34.0796721173234
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams at the Commons", 
+        "coordinates": [
+            -82.9999565, 
+            39.9587628
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Apollonia's Pizzeria", 
+        "coordinates": [
+            -118.3428125, 
+            34.062139
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Tony's Coneys", 
+        "coordinates": [
+            -83.140953, 
+            39.951981
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Hollywood Pies", 
+        "coordinates": [
+            -118.374519869685, 
+            34.0529729425907
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Graeters Ice Cream", 
+        "coordinates": [
+            -83.0865936279297, 
+            40.0642242431641
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "All' Angolo Pizza & Pasta", 
+        "coordinates": [
+            -118.301872, 
+            34.068913
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Clown Cone & Confections", 
+        "coordinates": [
+            -82.9649811, 
+            40.0364189
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Xlixe Pizzeria", 
+        "coordinates": [
+            -118.238754, 
+            34.046936
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Graeters Ice Cream", 
+        "coordinates": [
+            -82.9153748, 
+            40.049984
+        ], 
+        "address": "Columbus, OH"
+    }
+]
